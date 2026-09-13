@@ -1,7 +1,7 @@
 # Unity Volume Importer
 
-Standalone Unity package for volumetric import (OpenVDB-compatible `.vdb` roadmap + dense volume textures).
+Standalone Unity package for volumetric import: dense volume textures today, OpenVDB™ (`.vdb`) support on the roadmap.
 
-Free Booth distribution. Not affiliated with Academy Software Foundation / OpenVDB™.
+Intended for free Booth distribution.
 
-Repo bootstrap — package landing soon.
+OpenVDB is a trademark of LF Projects, LLC.
