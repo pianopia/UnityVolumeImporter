@@ -1,0 +1,20 @@
+{
+  "name": "com.louddin.unity-volume-importer",
+  "version": "0.1.0",
+  "displayName": "Unity Volume Importer",
+  "description": "Import and play back dense 3D volume textures in Unity 6. OpenVDB (.vdb) import planned for a later release.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/pianopia/UnityVolumeImporter/blob/main/README.md",
+  "author": {
+    "name": "Louddin",
+    "url": "https://github.com/pianopia"
+  },
+  "keywords": [
+    "volume",
+    "volumetric",
+    "texture3d",
+    "raymarch",
+    "openvdb"
+  ],
+  "dependencies": {}
+}
