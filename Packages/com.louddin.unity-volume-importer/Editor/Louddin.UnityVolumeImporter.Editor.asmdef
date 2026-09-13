@@ -1,0 +1,16 @@
+{
+  "name": "Louddin.UnityVolumeImporter.Editor",
+  "rootNamespace": "Louddin.UnityVolumeImporter.Editor",
+  "references": [
+    "Louddin.UnityVolumeImporter.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
